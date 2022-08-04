@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruk91
+- 👋 Hi, I’m Sajith Wijerathne
 - 👀 I’m interested in coding with music, cycling, swimming.
 - 🌱 I’m currently learning TDD.
 - 💞️ I’m looking to collaborate on something new.
